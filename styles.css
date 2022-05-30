@@ -1,0 +1,13 @@
+.bg-weather{
+    background-color: rgba(0, 0, 0, 0.626);
+    padding: 50px 110px;
+    margin-top: 90px;
+}
+body{
+    background-image: url('https://cdn.pixabay.com/photo/2016/08/24/17/09/sun-1617470_960_720.jpg');
+    background-repeat: no-repeat;
+    background-size: auto;
+    background-position: center;
+    background-size: cover; 
+    height: 100vh;
+}
